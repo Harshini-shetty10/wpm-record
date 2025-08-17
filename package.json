@@ -1,11 +1,13 @@
 {
   "name": "wpm-record",
   "version": "1.0.0",
+  "description": "WPM Record",
   "scripts": {
     "start": "serve ."
   },
   "dependencies": {
-    "serve": "^14.2.0"
+    "serve": "^14.2.4"
   }
 }
+
 
